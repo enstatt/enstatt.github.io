@@ -10,3 +10,7 @@ body {
     margin-left: 500px;
     margin-right: 500px;
 }
+
+#main-div h1 {
+    color: pink;
+}
